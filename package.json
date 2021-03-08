@@ -1,0 +1,19 @@
+{
+  "name": "fudax",
+  "version": "1.0.0",
+  "description": "Incrivel Technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayur Dhawad",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.0.0-beta2",
+    "bootstrap-icons": "^1.3.0",
+    "jquery": "^3.5.1",
+    "owl-carousel": "^1.0.0",
+    "owl.carousel2": "^2.2.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "json.schemas": [
+    
+    ],
+    "prettier.semi": false,
+    "javascript.format.semicolons": "remove",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/assets/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.autoprefix": []
+}
